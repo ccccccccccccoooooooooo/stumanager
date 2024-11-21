@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/dao/CourseDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/model/ScoreCou.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/servlet/ServletEditStu.java" charset="GBK" />
+=======
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/StuAMSystem-idea/src/dao/CourseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StuAMSystem-idea/src/model/ScoreCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StuAMSystem-idea/src/servlet/ServletEditStu.java" charset="GBK" />
+>>>>>>> 7ff96623fe1b2dc957be088608c2999621b3e096
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

@@ -6,5 +6,9 @@
     <JAVADOC />
     <SOURCES />
     <jarDirectory url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib" recursive="false" />
+      <root url="jar://$PROJECT_DIR$/StuAMSystem-idea/WebRoot/WEB-INF/classes/WEB-INF/lib.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

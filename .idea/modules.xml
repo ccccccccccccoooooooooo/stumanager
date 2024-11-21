@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <project version="5">
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StuAMSystem.iml" filepath="$PROJECT_DIR$/StuAMSystem.iml" />
+=======
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StuAMSystem-idea.iml" filepath="$PROJECT_DIR$/StuAMSystem-idea.iml" />
+>>>>>>> 7ff96623fe1b2dc957be088608c2999621b3e096
     </modules>
   </component>
 </project>
