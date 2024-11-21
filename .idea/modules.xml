@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/StuAMSystem.iml" filepath="$PROJECT_DIR$/StuAMSystem.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/StuAMSystem-idea.iml" filepath="$PROJECT_DIR$/StuAMSystem-idea.iml" />
+>>>>>>> 7ff96623fe1b2dc957be088608c2999621b3e096
     </modules>
   </component>
 </project>
