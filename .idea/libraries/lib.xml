@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d9c98e4899ad9c04a3414190c4868e1a117370e
+      <root url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib" recursive="false" />
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 5d9c98e4899ad9c04a3414190c4868e1a117370e
+      <root url="jar://$PROJECT_DIR$/StuAMSystem-idea/WebRoot/WEB-INF/classes/WEB-INF/lib.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+>>>>>>> 7ff96623fe1b2dc957be088608c2999621b3e096
+  </library>
+</component>
